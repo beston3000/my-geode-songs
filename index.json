@@ -5,5 +5,12 @@
     "songs": [1541819],
     "source": "host",
     "url": "https://raw.githubusercontent.com/beston3000/my-geode-songs/refs/heads/main/houseofgold.mp3"
+  },
+  {
+    "name": "Truce",
+    "artist": "Twenty One Pilots",
+    "songs": [54363],
+    "source": "host",
+    "url": "https://raw.githubusercontent.com/beston3000/my-geode-songs/refs/heads/main/truce.mp3"
   }
 ]
